@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dragonilly
 - 👀 I’m interested in  web development
 - 🌱 I’m currently learning font-end
-- 📫 How to reach me - eamil np05cp4a220031@iic.edu.np
+- 📫 How to reach me - email np05cp4a220031@iic.edu.np
 
 <!---
 dragonilly/dragonilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
