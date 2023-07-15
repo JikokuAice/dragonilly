@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dragonilly
 - 👀 I’m interested in  web development
-- 🌱 I’m currently learning font-end
+- 🌱 I’m currently learning front-end
 - 📫 How to reach me - email np05cp4a220031@iic.edu.np
 
 <!---
