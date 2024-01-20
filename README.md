@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dragonilly
-- 👀 I’m interested in  web development
+- 👋 Hi, I’m @ayush Karki
+- 👀 I’m interested in  coding
 - 🌱 I’m currently learning front-end
-- 📫 How to reach me - email np05cp4a220031@iic.edu.np
+- 📫 How to reach me - email aicekark@gmail.com
 
 <!---
 dragonilly/dragonilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
